@@ -5,4 +5,6 @@
 //= require turbolinks
 //= require semantic-ui
 //= require semantic-ui/dropdown
+//= require semantic-ui/modal
+//= require semantic-ui/tab
 //= require_tree .
