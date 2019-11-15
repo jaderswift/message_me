@@ -109,6 +109,6 @@ Rails.application.configure do
   # config.active_record.database_selector = { delay: 2.seconds }
   # config.active_record.database_resolver = ActiveRecord::Middleware::DatabaseSelector::Resolver
   # config.active_record.database_resolver_context = ActiveRecord::Middleware::DatabaseSelector::Resolver::Session
-  config.web_socket_server_url = "wss://action-cable-example.herokuapp.com/cable"
+  config.web_socket_server_url = "wss://jades-message-app.herokuapp.com/cable"
   config.action_cable.allowed_request_origins = ['https://jades-message-app.herokuapp.com/', 'https://jades-message-app.herokuapp.com/'] 
 end
