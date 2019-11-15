@@ -5,3 +5,13 @@
 .chatbox {
     height: 450px;
 }
+
+.pink {
+    color: #E03997;
+    font-style: bold;
+}
+
+#messages {
+    overflow: auto;
+    max-height: 420px;
+}
